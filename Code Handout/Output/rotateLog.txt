@@ -1,0 +1,9 @@
+Reading in Rasters..
+Checking Arguments...
+Reading in Rasters..
+Checking Arguments...
+Determining which rotation to make.
+Rotating image by 180 Degrees...
+
+----------EXECUTION DONE--------------
+
